@@ -1,6 +1,6 @@
 def reverseVowels(s):
     s=list(s)
-    vowels=('s','e','i','o','u','s','I','O','U','E')
+    vowels=('a','e','i','o','u','s','I','O','U','E')
     i=0
     j=len(s)-1
     while i<j:
